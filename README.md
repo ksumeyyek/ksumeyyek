@@ -32,5 +32,9 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=ksumeyyek.ksumeyyek)
 
 [![Github](https://img.shields.io/github/followers/ksumeyyek?label=Follow&style=social)](https://github.com/ksumeyyek)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ksumeyyek&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksumeyyek&theme=tokyonight)
+
+
 
 
