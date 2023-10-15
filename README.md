@@ -8,15 +8,15 @@
 
 - 🌱 I’m currently learning **React.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ksumeyyek](https://github.com/ksumeyyek)
+- 👨‍💻 All of my projects are available at [Github account](https://github.com/ksumeyyek)
 
-- 📝 I regularly write articles on [https://medium.com/@sumeyyekorkmaz90](https://medium.com/@sumeyyekorkmaz90)
+- 📝 I regularly write articles on [medium](https://medium.com/@sumeyyekorkmaz90)
 
 - 💬 Ask me about **flutter and javascript.**
 
-- 📫 How to reach me **ksumeyyek28@gmail.com**
+- 📫 How to reach me **[e-mail adress](ksumeyyek28@gmail.com)** and **[my portfolio website](sumeyyekorkmaz.lovestoblog.com)**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sumeyye-korkmaz-01769524b/overlay/1635534308809/single-media-viewer/?profileId=ACoAAD3b8tMBQ5JFDsuZGXlNbGP67kercPAzfLI](https://www.linkedin.com/in/sumeyye-korkmaz-01769524b/overlay/1635534308809/single-media-viewer/?profileId=ACoAAD3b8tMBQ5JFDsuZGXlNbGP67kercPAzfLI)
+- 📄 Know about my experiences [Linkedin Page](https://www.linkedin.com/in/sumeyye-korkmaz-01769524b/)
 
 - ⚡ Fun fact **funny**
 
