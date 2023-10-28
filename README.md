@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **flutter and javascript.**
 
-- 📫 How to reach me **[ksumeyyek28@gmail.com](ksumeyyek28@gmail.com)** and **[sumeyyekorkmaz.lovestoblog.com ](sumeyyekorkmaz.lovestoblog.com)**
+- 📫 How to reach me **[ksumeyyek28@gmail.com](ksumeyyek28@gmail.com)** and **[my website](https://sumeyyekorkmaz.netlify.app/)**
 
 - 📄 Know about my experiences [Linkedin Page](https://www.linkedin.com/in/sumeyye-korkmaz-01769524b/)
 
